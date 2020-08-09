@@ -1,6 +1,6 @@
 # line-firebase-auth-sample
 
-> Nuxt.js project
+Qiitaのこの記事( https://qiita.com/Arahabica/items/8f5c7472ded92128535f )のソースです。
 
 ## Build Setup
 
