@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "YOUR_DEV_PROJECT",
+    "prod": "YOUR_PRODUCTION_PROJECT"
+  }
+}
